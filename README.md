@@ -13,8 +13,12 @@ Turn-based puzzle board game with rotating compass mechanics.
 [Play Game](https://YOUR_USERNAME.github.io/roto-clash-game)
 
 ## 🛠️ Development
+```sh
 npm install
+```
+```sh
 npm run dev
+```
 
 # Project Build Guide
 
