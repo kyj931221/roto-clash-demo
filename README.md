@@ -1,3 +1,21 @@
+# Roto-Clash: 서로의 길
+
+Turn-based puzzle board game with rotating compass mechanics.
+
+## 🎮 Game Features
+- Rock-Paper-Scissors role selection
+- Asymmetric gameplay (Mover vs Rotator)
+- AI opponent with multiple difficulty levels
+- Local multiplayer support
+- Tutorial mode
+
+## 🚀 Live Demo
+[Play Game](https://YOUR_USERNAME.github.io/roto-clash-game)
+
+## 🛠️ Development
+npm install
+npm run dev
+
 # Project Build Guide
 
 ## Tech Stack
