@@ -10,7 +10,7 @@ Turn-based puzzle board game with rotating compass mechanics.
 - Tutorial mode
 
 ## 🚀 Live Demo
-[Play Game](https://YOUR_USERNAME.github.io/roto-clash-game)
+[Play Game](https://kyj931221.github.io/roto-clash-game)
 
 ## 🛠️ Development
 ```sh
